@@ -25,6 +25,9 @@
     "del-cli": "^5.0.0",
     "typescript": "^4.9.5"
   },
+  "publishConfig": {
+    "access": "public"
+  },
   "dependencies": {
     "ethers": "^5",
     "prompt-sync": "^4.2.0",
