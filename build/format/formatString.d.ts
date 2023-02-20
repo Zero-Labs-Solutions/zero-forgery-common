@@ -1,1 +1,1 @@
-export default function format(str: string): string;
+export declare function format(str: string): string;

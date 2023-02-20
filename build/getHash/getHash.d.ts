@@ -1,1 +1,1 @@
-export default function getHash(str: string): string;
+export declare function getHash(str: string): string;
